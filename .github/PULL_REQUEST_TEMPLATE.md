@@ -1,3 +1,3 @@
 
-**Fixes** trava-travel/workplan#ISSUE_ID
+**Issue** trava-travel/workplan#ISSUE_ID
 
