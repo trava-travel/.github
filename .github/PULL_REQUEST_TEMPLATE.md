@@ -1,3 +1,3 @@
 
-**Issue** https://jira.exadel.com/browse/ETA-ISSUE_KEY
+**Issue** https://jira.exadel.com/browse/ISSUE_KEY
 
