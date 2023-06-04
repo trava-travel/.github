@@ -1,3 +1,3 @@
 
-**Issue** trava-travel/workplan#ISSUE_ID
+**Issue** https://jira.exadel.com/browse/ISSUE_ID
 
