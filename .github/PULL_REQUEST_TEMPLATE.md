@@ -1,3 +1,3 @@
 
-**Issue** https://jira.exadel.com/browse/ISSUE_KEY
+**Issue** https://trava-inc.atlassian.net/browse/ISSUE_KEY
 
